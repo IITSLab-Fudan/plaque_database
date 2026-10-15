@@ -1,0 +1,31 @@
+{
+  "pass": true,
+  "csv_rebuild_identical": true,
+  "raw_files_unchanged": 142,
+  "negative_tests": [
+    "ROS cannot populate H2O2",
+    "group summary cannot become A-level"
+  ],
+  "sqlite_integrity": "ok",
+  "multimodal_supervised_rows": 0,
+  "human_h2o2_rows": 0,
+  "stress_strain_pairs": 0,
+  "requirements_checked": [
+    "plaque_multimodal_database.csv",
+    "sources.csv",
+    "plaque_type_priors.csv",
+    "README.md",
+    "data_dictionary.md",
+    "search_log.csv",
+    "excluded_sources.csv",
+    "quality_control_report.md",
+    "plaque_database.sqlite",
+    "dataset_catalog.csv",
+    "dataset_samples.csv",
+    "dataset_membership.csv",
+    "dataset_files.csv",
+    "supplement_audit.csv",
+    "03_processed_data/omics_workbook_cells.csv",
+    "supplement_update_report.md"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1098%2Frsfs.2017.0008&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:54.040185+00:00",
+  "sha256": "61814a74c5a3c5daaf895628d82e37f51ede7bbee8bef554c33a1d9b093934d9",
+  "bytes": 7127
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Experimental+measurement+of+the+mechanical+properties+of+carotid+atherothrombotic+plaque+fibrous+cap%22&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:55.300876+00:00",
+  "sha256": "39650f01fb18667abe05773854d46195af2db084049d3196bc2d3e512b0d901a",
+  "bytes": 5390
+}

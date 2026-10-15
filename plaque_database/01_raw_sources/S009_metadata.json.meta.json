@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Mechanical+properties+of+human+atherosclerotic+plaques%22&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:54.858473+00:00",
+  "sha256": "2484fe8f99dabfbdf4e520cc320a54b2261daf296ab57cb1f8d715f34e8dee9c",
+  "bytes": 226
+}

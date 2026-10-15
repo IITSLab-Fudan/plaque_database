@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID%3APMC10165242&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:58:43.324223+00:00",
+  "sha256": "45a438cb0339f720b9a5fcb971ba9364c971848f90ec22ff806ead896238f262",
+  "bytes": 180
+}

@@ -1,0 +1,22 @@
+Record ID	morphology	bleeding	erosion	sample	replicate
+104	Hard	No	No	CARCEUS_1	1
+212	Soft	Yes	Yes	CARCEUS_2	1
+272	Hard	No	No	CARCEUS_3	2
+331	Soft	No	Yes	CARCEUS_4	2
+446	Hard	No	No	CARCEUS_5	3
+447	Soft	Yes	Yes	CARCEUS_6	3
+464	Mixed	Yes	Yes	CARCEUS_7	1
+469	Mixed	No	No	CARCEUS_8	2
+579	Hard	No	No	CARCEUS_9	4
+580	Mixed	Yes	Yes	CARCEUS_10	3
+623	Soft	Yes	Yes	CARCEUS_11	4
+725	Hard	No	No	CARCEUS_12	5
+767	Mixed	Yes	Yes	CARCEUS_13	4
+774	Hard	No	Yes	CARCEUS_14	6
+779	Soft	Yes	Yes	CARCEUS_15	5
+816	Mixed	Yes	Yes	CARCEUS_16	5
+831	Mixed	Yes	Yes	CARCEUS_17	6
+856	Soft	Yes	Yes	CARCEUS_18	6
+870	Hard	No	No	CARCEUS_19	7
+890	Soft	Yes	Yes	CARCEUS_20	7
+891	Mixed	Yes	Yes	CARCEUS_21	7

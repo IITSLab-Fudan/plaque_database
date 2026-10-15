@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+plaque+AND+%28%22hydrogen+peroxide%22+OR+H2O2%29&format=json&pageSize=20&resultType=lite",
+  "retrieved_utc": "2026-10-14T06:32:47.374210+00:00",
+  "sha256": "dcbf4b36696e2d1c7176349aad49e4d26c0e627855f3f187b581294711d5caae",
+  "bytes": 17928
+}

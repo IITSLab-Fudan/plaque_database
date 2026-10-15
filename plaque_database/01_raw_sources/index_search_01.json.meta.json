@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+%28plaque%29+AND+%28mechanical+OR+modulus+OR+indentation%29&format=json&pageSize=20&resultType=lite",
+  "retrieved_utc": "2026-10-14T06:32:45.036064+00:00",
+  "sha256": "c9b5592c4442d475cbdfa17092a13a8189c44c08479e9cfbd948c082dc443ce9",
+  "bytes": 17442
+}

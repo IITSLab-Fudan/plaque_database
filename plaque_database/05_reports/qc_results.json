@@ -1,0 +1,3809 @@
+{
+  "passed": true,
+  "check_count": 946,
+  "failed_checks": [],
+  "checks": [
+    {
+      "check": "Unique record_id",
+      "pass": true
+    },
+    {
+      "check": "Every observation has a valid source_id",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R006 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R007 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R008 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R009 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R010 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R011 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R012 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R013 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R014 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R015 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S001-R016 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R006 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R007 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R008 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R009 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S002-R010 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S003-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S003-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S003-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S003-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S003-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 ordered bounds",
+      "pass": true
+    },
+    {
+      "check": "S004-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 ordered quartiles",
+      "pass": true
+    },
+    {
+      "check": "S005-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 ordered bounds",
+      "pass": true
+    },
+    {
+      "check": "S010-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S006-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S006-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S006-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S006-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S006-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S012-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 ambiguous error not SD",
+      "pass": true
+    },
+    {
+      "check": "S012-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S014-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S014-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S013-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S013-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S016-R006 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 ordered bounds",
+      "pass": true
+    },
+    {
+      "check": "S019-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 ordered bounds",
+      "pass": true
+    },
+    {
+      "check": "S019-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 no fake sample ID for summary",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 aggregate is not sample-level data",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 H2O2 assay basis",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 no tissue/concentration conversion",
+      "pass": true
+    },
+    {
+      "check": "S011-R001 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R002 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R003 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R004 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R005 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R006 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R007 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R008 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R009 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R010 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R011 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R012 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R013 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R014 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R015 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R016 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R017 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R018 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R019 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R020 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R021 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R022 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R023 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R024 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R025 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R026 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R027 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R028 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R029 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R030 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R031 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R032 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R033 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R034 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R035 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R036 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R037 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R038 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R039 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R040 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R041 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R042 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R043 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R044 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R045 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R046 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R047 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R048 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 traceable locator",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 evidence SHA-256",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 no synthetic values",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 species resolved",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 species/level separation",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 H2O2 analyte specificity",
+      "pass": true
+    },
+    {
+      "check": "S011-R049 training eligibility blocked for C/D/E",
+      "pass": true
+    },
+    {
+      "check": "Eight requested phenotype prior rows",
+      "pass": true
+    },
+    {
+      "check": "No animal H2O2 in human priors",
+      "pass": true
+    },
+    {
+      "check": "No unsupported fitted distributions",
+      "pass": true
+    },
+    {
+      "check": "Quartiles not misrepresented as population extrema",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Normal / non-atherosclerotic vessel",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Fibrous / stable plaque",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Lipid-rich plaque",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Vulnerable / unstable plaque",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Calcified plaque",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Intraplaque hemorrhage",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Necrotic core",
+      "pass": true
+    },
+    {
+      "check": "Human-only selected prior Mixed plaque",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity crossref_search.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE159677_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE163154_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE163154_series_matrix.txt.gz",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE210152_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE253902_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE253903_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE253904_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE28829_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE28829_series_matrix.txt.gz",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE43292_metadata.soft",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity GSE43292_series_matrix.txt.gz",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity index_search_01.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity index_search_02.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity index_search_03.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD031052_files.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD031052_files_page1.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD031052_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD031052_Plaques_GuHCl_PRM_FINAL.xlsx",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD031052_Proteins_and_Peptides_quantified_using_PRM_method.xlsx",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD039077_files.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD039077_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity PXD039077_Sample_list.tsv",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R001_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R002_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R003_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R004_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R004_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R005_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R005_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity R006_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S001_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S001_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S002_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S002_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S003_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S004_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S005_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S006_dryad.html",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S006_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S006_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S007_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S008_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S008_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S009_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S010_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S011_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S011_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S011_source_data.xlsx",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S012_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S012_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S013_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S014_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S014_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S015_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S016_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S016_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S017_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S018_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S019_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S020_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S020_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S021_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S022_metadata.json",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S023_fulltext.xml",
+      "pass": true
+    },
+    {
+      "check": "Archive integrity S023_metadata.json",
+      "pass": true
+    }
+  ],
+  "counts": {
+    "records": 102,
+    "modalities": {
+      "mechanical": 48,
+      "pH": 5,
+      "H2O2": 1,
+      "ros_other": 48
+    },
+    "levels": {
+      "D": 47,
+      "E": 55
+    },
+    "record_kinds": {
+      "group_summary": 54,
+      "raw_observation": 48
+    },
+    "quantitative_sources": 13
+  }
+}

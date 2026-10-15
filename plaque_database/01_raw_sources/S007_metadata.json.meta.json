@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1161%2FCIRCULATIONAHA.112.132159&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:54.011335+00:00",
+  "sha256": "0293bf7f257d89d7bb841747b41244ed94caee3a6d904abd6ca2daacf1ce69bb",
+  "bytes": 9466
+}

@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE%3A%22Development+of+an+intravascular+ultrasound+elastography+based+on+a+dual-element+transducer%22&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:54.018758+00:00",
+  "sha256": "292afd9b53dc322a78ba493b37a269fc1709e883a29877274e8b6679b282a2ec",
+  "bytes": 6330
+}

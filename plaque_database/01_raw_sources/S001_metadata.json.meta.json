@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1016%2Fj.actbio.2014.09.001&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:17:52.955738+00:00",
+  "sha256": "5940fce9b9d3f438aed696bed3db8ac6be079de648fb9137a55186f4283a8fb2",
+  "bytes": 8841
+}

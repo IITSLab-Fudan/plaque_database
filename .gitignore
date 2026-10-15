@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+/.publish_tools/
+/*.zip
+*.build.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm

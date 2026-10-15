@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=DOI%3A10.1186%2Fs13062-025-00600-7&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:58:44.436786+00:00",
+  "sha256": "98f987abd36f50178a38a53a4efe96b61326e897daf46c7468a00fa4be02ad14",
+  "bytes": 5412
+}

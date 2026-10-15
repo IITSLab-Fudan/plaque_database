@@ -1,0 +1,219 @@
+{
+  "passed": true,
+  "check_count": 49,
+  "matrices": [
+    {
+      "dataset_id": "GSE28829",
+      "features": 54675,
+      "libraries": 29
+    },
+    {
+      "dataset_id": "GSE43292",
+      "features": 33297,
+      "libraries": 64
+    },
+    {
+      "dataset_id": "GSE163154",
+      "features": 22184,
+      "libraries": 43
+    }
+  ],
+  "checks": [
+    {
+      "check": "SQLite integrity",
+      "passed": true
+    },
+    {
+      "check": "All foreign keys",
+      "passed": true
+    },
+    {
+      "check": "35 source entities, not independent studies",
+      "passed": true
+    },
+    {
+      "check": "10 accession records including parent/children",
+      "passed": true
+    },
+    {
+      "check": "193 unique sample/library annotations",
+      "passed": true
+    },
+    {
+      "check": "217 memberships preserve shared parent/subseries samples",
+      "passed": true
+    },
+    {
+      "check": "Target measurements unchanged",
+      "passed": true
+    },
+    {
+      "check": "No manufactured physical/chemical A/B samples",
+      "passed": true
+    },
+    {
+      "check": "Omics does not imply target multimodal eligibility",
+      "passed": true
+    },
+    {
+      "check": "GSE28829 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE43292 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE163154 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE159677 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE210152 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE253902 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE253903 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE253904 membership count",
+      "passed": true
+    },
+    {
+      "check": "PXD039077 membership count",
+      "passed": true
+    },
+    {
+      "check": "GSE253902 samples are already in parent, not duplicate people",
+      "passed": true
+    },
+    {
+      "check": "GSE253903 samples are already in parent, not duplicate people",
+      "passed": true
+    },
+    {
+      "check": "18 deposited GSE253904 donor labels",
+      "passed": true
+    },
+    {
+      "check": "11 deposited symptomatic donors, not 13 inferred",
+      "passed": true
+    },
+    {
+      "check": "No diseased comparator is falsely labeled healthy",
+      "passed": true
+    },
+    {
+      "check": "GSE43292 true patient pairs",
+      "passed": true
+    },
+    {
+      "check": "GSE159677 true patient pairs",
+      "passed": true
+    },
+    {
+      "check": "PXD039077 original three groups",
+      "passed": true
+    },
+    {
+      "check": "GSE28829_series_matrix.txt.gz SHA-256",
+      "passed": true
+    },
+    {
+      "check": "GSE28829_series_matrix.txt.gz matrix columns match real GSMs",
+      "passed": true
+    },
+    {
+      "check": "GSE28829_series_matrix.txt.gz unique sample columns",
+      "passed": true
+    },
+    {
+      "check": "GSE28829_series_matrix.txt.gz complete feature rows and numeric entries",
+      "passed": true
+    },
+    {
+      "check": "GSE43292_series_matrix.txt.gz SHA-256",
+      "passed": true
+    },
+    {
+      "check": "GSE43292_series_matrix.txt.gz matrix columns match real GSMs",
+      "passed": true
+    },
+    {
+      "check": "GSE43292_series_matrix.txt.gz unique sample columns",
+      "passed": true
+    },
+    {
+      "check": "GSE43292_series_matrix.txt.gz complete feature rows and numeric entries",
+      "passed": true
+    },
+    {
+      "check": "GSE163154_series_matrix.txt.gz SHA-256",
+      "passed": true
+    },
+    {
+      "check": "GSE163154_series_matrix.txt.gz matrix columns match real GSMs",
+      "passed": true
+    },
+    {
+      "check": "GSE163154_series_matrix.txt.gz unique sample columns",
+      "passed": true
+    },
+    {
+      "check": "GSE163154_series_matrix.txt.gz complete feature rows and numeric entries",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Proteins_and_Peptides_quantified_using_PRM_method.xlsx SHA-256",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Proteins_and_Peptides_quantified_using_PRM_method.xlsx repository SHA-1",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Proteins_and_Peptides_quantified_using_PRM_method.xlsx repository byte size",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Plaques_GuHCl_PRM_FINAL.xlsx SHA-256",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Plaques_GuHCl_PRM_FINAL.xlsx repository SHA-1",
+      "passed": true
+    },
+    {
+      "check": "PXD031052_Plaques_GuHCl_PRM_FINAL.xlsx repository byte size",
+      "passed": true
+    },
+    {
+      "check": "PXD039077_Sample_list.tsv SHA-256",
+      "passed": true
+    },
+    {
+      "check": "PXD039077_Sample_list.tsv repository SHA-1",
+      "passed": true
+    },
+    {
+      "check": "PXD039077_Sample_list.tsv repository byte size",
+      "passed": true
+    },
+    {
+      "check": "PMC11780792 and DOI deduplicated",
+      "passed": true
+    },
+    {
+      "check": "Lossless workbook cell import",
+      "passed": true
+    }
+  ]
+}

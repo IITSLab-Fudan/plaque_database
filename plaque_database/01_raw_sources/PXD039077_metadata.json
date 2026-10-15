@@ -1,0 +1,116 @@
+{
+  "accession" : "PXD039077",
+  "title" : "Proteomic analysis of the extracellular matrix of human atherosclerotic plaques shows marked changes between plaque types",
+  "additionalAttributes" : [ ],
+  "projectDescription" : "Cardiovascular disease (CVD) is the leading cause of death, with atherosclerosis a major underlying cause. While often asymptomatic for decades, plaque destabilisation and rupture can arise suddenly and cause acute arterial occlusion or peripheral embolisation resulting in acute myocardial infarction, stroke and lower limb ischaemia. Hard plaques are typically considered as stable, and soft plaques as unstable. Extracellular matrix (ECM) remodelling can result in plaque destabilisation, but the mechanisms that drive the development of unstable lipid-rich plaques with a thin fibrous cap, versus stable fibrotic plaques with a thick cap,  are not fully understood. We hypothesised that there would be significant differences in ECM composition between hard (stable) and soft (unstable and rupture-prone) plaques.   We identified and quantified >46700 proteins, including 367 ECM proteins, with unprecedented coverage and high reproducibility. We identified 575 proteins with differential abundances between hard (stable) and soft (unstable) plaques. Proteins involved in inflammation and ECM remodeling, including multiple proteases were enriched, and ECM proteins decreased, in soft plaques.   These data provide a unique insight into inflammatory mechanisms and ECM remodelling as an explanation for plaque destabilization. Furthermore they provide a first step towards identifying circulating biomarkers for individualised risk profiling of arteriosclerosis.",
+  "sampleProcessingProtocol" : "Atherosclerotic plaques (7 hard, 7 soft, and 7 mixed, macroscopically defined) from patients with recent symptomatic carotid artery disease were compared. Plaques were solubilized in trifluoroacetic acid. After neutralization of the acid, solubilized proteins were digested to peptides, and analyzed by LC-MS/MS on a Bruker timsTOF Pro using data-independent acquisition with parallel accumulation-serial fragmentation (DIA-PASEF) .",
+  "dataProcessingProtocol" : "DIA-PASEF data were processed in DIA-NN in library-free mode. Peptides were identified by comparison with the UniProtKB protein database, including common contaminants.",
+  "projectTags" : [ ],
+  "keywords" : [ "Stroke", "Cardiovascular disease", "Atherosclerosis", "Extracellular matrix" ],
+  "doi" : "",
+  "submissionType" : "PARTIAL",
+  "license" : "Creative Commons Public Domain (CC0)",
+  "submissionDate" : "2022-12-22",
+  "publicationDate" : "2024-01-15",
+  "submitters" : [ {
+    "title" : "Dr",
+    "firstName" : "Lasse Gøbel",
+    "lastName" : "Lorentzen",
+    "identifier" : "2364716",
+    "affiliation" : "University of Copenhagen",
+    "email" : "lassegl@sund.ku.dk",
+    "country" : "Denmark",
+    "orcid" : "0000-0002-0895-5739",
+    "name" : "Lasse Gøbel Lorentzen",
+    "id" : "2364716"
+  } ],
+  "labPIs" : [ {
+    "title" : "Dr",
+    "firstName" : "Michael J.",
+    "lastName" : "Davies",
+    "identifier" : "2497180",
+    "affiliation" : "Department of Biomedical Sciences, Panum Institute, University of Copenhagen, Denmark",
+    "email" : "davies@sund.ku.dk",
+    "country" : "",
+    "orcid" : "",
+    "name" : "Michael J. Davies",
+    "id" : "2497180"
+  } ],
+  "instruments" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "MS",
+    "accession" : "MS:1003005",
+    "name" : "timsTOF Pro"
+  } ],
+  "softwares" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "MS",
+    "accession" : "MS:1003253",
+    "name" : "DIA-NN"
+  } ],
+  "experimentTypes" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "PRIDE",
+    "accession" : "PRIDE:0000447",
+    "name" : "SWATH MS"
+  }, {
+    "@type" : "CvParam",
+    "cvLabel" : "PRIDE",
+    "accession" : "PRIDE:0000429",
+    "name" : "Shotgun proteomics"
+  } ],
+  "quantificationMethods" : [ ],
+  "countries" : [ "Denmark" ],
+  "sampleAttributes" : [ {
+    "@type" : "Tuple",
+    "key" : {
+      "cvLabel" : "EFO",
+      "accession" : "OBI:0100026",
+      "name" : "organism"
+    },
+    "value" : [ {
+      "cvLabel" : "NEWT",
+      "accession" : "NEWT:9606",
+      "name" : "Homo sapiens (Human)"
+    } ]
+  }, {
+    "@type" : "Tuple",
+    "key" : {
+      "cvLabel" : "EFO",
+      "accession" : "EFO:0000408",
+      "name" : "disease"
+    },
+    "value" : [ {
+      "cvLabel" : "DOID",
+      "accession" : "DOID:1287",
+      "name" : "cardiovascular system disease"
+    } ]
+  } ],
+  "organisms" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "NEWT",
+    "accession" : "NEWT:9606",
+    "name" : "Homo sapiens (human)"
+  } ],
+  "organismParts" : [ ],
+  "diseases" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "DOID",
+    "accession" : "DOID:1287",
+    "name" : "Cardiovascular system disease"
+  } ],
+  "references" : [ {
+    "pubmedID" : 0,
+    "doi" : "10.1016/J.MBPLUS.2024.100141"
+  } ],
+  "identifiedPTMStrings" : [ {
+    "@type" : "CvParam",
+    "cvLabel" : "PRIDE",
+    "accession" : "PRIDE:0000398",
+    "name" : "No PTMs are included in the dataset"
+  } ],
+  "totalFileDownloads" : 1451,
+  "botCount" : 687,
+  "hubCount" : 642,
+  "organicCount" : 122
+}

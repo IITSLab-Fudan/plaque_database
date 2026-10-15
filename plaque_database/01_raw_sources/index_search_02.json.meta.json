@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+plaque+AND+%28%22extracellular+pH%22+OR+%22microelectrode%22+OR+%22pH+heterogeneity%22%29&format=json&pageSize=20&resultType=lite",
+  "retrieved_utc": "2026-10-14T06:32:46.255287+00:00",
+  "sha256": "1cf9fbcde6a7d2a40178234946bb93f5fd33e59799e650b570309dfe6053cd91",
+  "bytes": 18108
+}

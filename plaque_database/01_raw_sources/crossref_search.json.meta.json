@@ -1,0 +1,6 @@
+{
+  "url": "https://api.crossref.org/works?query.title=atherosclerotic+plaque+mechanical+pH+hydrogen+peroxide&rows=10",
+  "retrieved_utc": "2026-10-14T06:32:50.560502+00:00",
+  "sha256": "155cf9abc43e0e2ccd7813d7944312767e19928f5773998e2c9efd69f9521c36",
+  "bytes": 109492
+}

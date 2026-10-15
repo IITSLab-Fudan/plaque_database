@@ -1,0 +1,6 @@
+{
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=PMCID%3APMC10165242&format=json&resultType=core&pageSize=5",
+  "retrieved_utc": "2026-10-14T06:59:28.296444+00:00",
+  "sha256": "013ad6205490393cb9d2c3f840a064f9b815bc4bf4272b383722ee06325b3a30",
+  "bytes": 6403
+}

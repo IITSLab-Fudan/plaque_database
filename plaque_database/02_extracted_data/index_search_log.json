@@ -1,0 +1,41 @@
+[
+  {
+    "search_engine": "Europe PMC (PubMed-indexed literature)",
+    "query": "(atherosclero* OR carotid) AND (plaque) AND (mechanical OR modulus OR indentation)",
+    "date": "2026-10-14",
+    "number_of_results_screened": 20,
+    "reported_total_hits": 21829,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+%28plaque%29+AND+%28mechanical+OR+modulus+OR+indentation%29&format=json&pageSize=20&resultType=lite",
+    "archive": "01_raw_sources/index_search_01.json",
+    "notes": "First 20 returned titles screened; not all index hits. Exact article decisions recorded separately."
+  },
+  {
+    "search_engine": "Europe PMC (PubMed-indexed literature)",
+    "query": "(atherosclero* OR carotid) AND plaque AND (\"extracellular pH\" OR \"microelectrode\" OR \"pH heterogeneity\")",
+    "date": "2026-10-14",
+    "number_of_results_screened": 20,
+    "reported_total_hits": 454,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+plaque+AND+%28%22extracellular+pH%22+OR+%22microelectrode%22+OR+%22pH+heterogeneity%22%29&format=json&pageSize=20&resultType=lite",
+    "archive": "01_raw_sources/index_search_02.json",
+    "notes": "First 20 returned titles screened; not all index hits. Exact article decisions recorded separately."
+  },
+  {
+    "search_engine": "Europe PMC (PubMed-indexed literature)",
+    "query": "(atherosclero* OR carotid) AND plaque AND (\"hydrogen peroxide\" OR H2O2)",
+    "date": "2026-10-14",
+    "number_of_results_screened": 20,
+    "reported_total_hits": 9585,
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%28atherosclero%2A+OR+carotid%29+AND+plaque+AND+%28%22hydrogen+peroxide%22+OR+H2O2%29&format=json&pageSize=20&resultType=lite",
+    "archive": "01_raw_sources/index_search_03.json",
+    "notes": "First 20 returned titles screened; not all index hits. Exact article decisions recorded separately."
+  },
+  {
+    "search_engine": "Crossref API",
+    "query": "query.title=atherosclerotic plaque mechanical pH hydrogen peroxide; rows=10",
+    "date": "2026-10-14",
+    "number_of_results_screened": 10,
+    "url": "https://api.crossref.org/works?query.title=atherosclerotic+plaque+mechanical+pH+hydrogen+peroxide&rows=10",
+    "archive": "01_raw_sources/crossref_search.json",
+    "notes": "Bibliographic discovery only; numerical extraction requires primary evidence."
+  }
+]

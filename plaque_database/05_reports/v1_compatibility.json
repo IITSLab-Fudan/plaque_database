@@ -1,0 +1,7 @@
+{
+  "original_release": "plaque_database_v1_2026-10-14.zip",
+  "byte_identical": {
+    "plaque_multimodal_database.csv": true,
+    "plaque_type_priors.csv": true
+  }
+}
